@@ -44,7 +44,7 @@
             this.listBox1.FormattingEnabled = true;
             this.listBox1.Location = new System.Drawing.Point(240, 52);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(133, 264);
+            this.listBox1.Size = new System.Drawing.Size(133, 186);
             this.listBox1.TabIndex = 0;
             // 
             // label1
@@ -84,9 +84,9 @@
             // 
             this.listBox2.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.listBox2.FormattingEnabled = true;
-            this.listBox2.Location = new System.Drawing.Point(73, 52);
+            this.listBox2.Location = new System.Drawing.Point(80, 49);
             this.listBox2.Name = "listBox2";
-            this.listBox2.Size = new System.Drawing.Size(120, 264);
+            this.listBox2.Size = new System.Drawing.Size(120, 186);
             this.listBox2.TabIndex = 4;
             // 
             // label2
